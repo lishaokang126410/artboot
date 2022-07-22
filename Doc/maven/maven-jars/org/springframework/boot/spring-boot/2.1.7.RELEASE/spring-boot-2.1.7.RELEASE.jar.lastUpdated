@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 21 22:39:54 CST 2022
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot\:jar\:2.1.7.RELEASE from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Transfer failed for http\://192.168.205.11\:8282/repository/public/org/springframework/boot/spring-boot/2.1.7.RELEASE/spring-boot-2.1.7.RELEASE.jar
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1658414388803
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1658414355913
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1658414394267

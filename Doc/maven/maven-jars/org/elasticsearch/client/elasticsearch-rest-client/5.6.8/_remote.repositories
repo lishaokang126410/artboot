@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 24 09:13:11 CST 2019
+elasticsearch-rest-client-5.6.8.jar>spring-milestones=
+elasticsearch-rest-client-5.6.8.pom>spring-milestones=

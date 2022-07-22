@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 21 22:09:46 CST 2022
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starters\:pom\:2.1.7.RELEASE from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Transfer failed for http\://192.168.205.11\:8282/repository/public/org/springframework/boot/spring-boot-starters/2.1.7.RELEASE/spring-boot-starters-2.1.7.RELEASE.pom
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1658412586428
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1658412585347
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1658412586491

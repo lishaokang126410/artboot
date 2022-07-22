@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 09 11:15:21 CST 2019
+hibernate-validator-parent-6.0.10.Final.pom>spring-snapshots=
+hibernate-validator-parent-6.0.10.Final.pom>repository.spring.release=
+hibernate-validator-parent-6.0.10.Final.pom>alimaven=

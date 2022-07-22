@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 07 11:21:30 CST 2019
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1557155531125
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:pom\:2.0.0.RELEASE from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:pom\:2.0.0.RELEASE from/to spring-snapshot (https\://repo.spring.io/snapshot)\: repo.spring.io
+https\://repo.spring.io/milestone/.lastUpdated=1557199290171
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1557155531116
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:pom\:2.0.0.RELEASE from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: dl.bintray.com
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1557155531133

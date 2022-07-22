@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 21 22:19:53 CST 2022
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.hibernate.validator\:hibernate-validator-parent\:pom\:6.0.17.Final from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Transfer failed for http\://192.168.205.11\:8282/repository/public/org/hibernate/validator/hibernate-validator-parent/6.0.17.Final/hibernate-validator-parent-6.0.17.Final.pom
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1658413193616
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1658413192615
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1658413193695

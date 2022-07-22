@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 09 11:14:56 CST 2019
+spring-boot-starters-2.0.3.RELEASE.pom>spring-snapshots=
+spring-boot-starters-2.0.3.RELEASE.pom>alimaven=
+spring-boot-starters-2.0.3.RELEASE.pom>repository.spring.release=

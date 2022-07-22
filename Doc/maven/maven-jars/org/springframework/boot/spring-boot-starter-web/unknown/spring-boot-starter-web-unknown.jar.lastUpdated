@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 14 13:51:03 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.spring.io/libs-milestone/.error=
+https\://repo.spring.io/libs-milestone/.lastUpdated=1556588745291
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1557813063637
