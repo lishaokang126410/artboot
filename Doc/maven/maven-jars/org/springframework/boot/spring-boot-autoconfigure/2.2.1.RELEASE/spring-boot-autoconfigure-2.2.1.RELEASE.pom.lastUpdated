@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 13 16:47:32 CST 2021
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1615625251513
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1615625252425
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:pom\:2.2.1.RELEASE from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Connect to 192.168.205.11\:8282 [/192.168.205.11] failed\: Connection timed out\: connect
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1615625252700

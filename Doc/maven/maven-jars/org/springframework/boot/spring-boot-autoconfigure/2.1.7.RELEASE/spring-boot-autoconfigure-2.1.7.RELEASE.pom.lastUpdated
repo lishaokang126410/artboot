@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 21 22:13:33 CST 2022
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:pom\:2.1.7.RELEASE from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Transfer failed for http\://192.168.205.11\:8282/repository/public/org/springframework/boot/spring-boot-autoconfigure/2.1.7.RELEASE/spring-boot-autoconfigure-2.1.7.RELEASE.pom
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1658412812825
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1658412810897
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1658412813012

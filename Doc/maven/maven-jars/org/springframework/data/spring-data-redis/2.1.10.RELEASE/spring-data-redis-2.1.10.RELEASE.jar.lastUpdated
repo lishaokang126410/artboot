@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 21 22:39:55 CST 2022
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://192.168.205.11\:8282/repository/public/.error=Could not transfer artifact org.springframework.data\:spring-data-redis\:jar\:2.1.10.RELEASE from/to nexus (http\://192.168.205.11\:8282/repository/public/)\: Transfer failed for http\://192.168.205.11\:8282/repository/public/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE.jar
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1658414391470
+@default-nexus-http\://192.168.205.11\:8282/repository/public/.lastUpdated=1658414357149
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1658414395523
