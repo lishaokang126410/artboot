@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 06 11:59:11 CST 2020
+hibernate-commons-annotations-5.0.1.Final.jar>alimaven=
+hibernate-commons-annotations-5.0.1.Final.pom>alimaven=
+hibernate-commons-annotations-5.0.1.Final-sources.jar>nexus=
+hibernate-commons-annotations-5.0.1.Final.jar>spring-milestones=
+hibernate-commons-annotations-5.0.1.Final.pom>spring-milestones=
